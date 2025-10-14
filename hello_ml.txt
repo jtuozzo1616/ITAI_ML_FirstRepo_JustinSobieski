@@ -3,3 +3,5 @@ This is my first GitHub file for the Classic Machine Learning course.
 Hello from Justin Sobieski.
 
 Hello from Brandon Matias
+
+Hello from Jose Tuozzo
